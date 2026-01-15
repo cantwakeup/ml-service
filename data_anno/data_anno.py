@@ -3,7 +3,6 @@ import base64
 import json
 from openai import OpenAI
 
-# ================= 配置区域 =================
 # 1. 填入你的 OpenRouter API Key
 OPENROUTER_API_KEY = "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"
 
